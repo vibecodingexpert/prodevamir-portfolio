@@ -115,16 +115,20 @@ export default function Hero() {
             </motion.h1>
 
             <motion.h2
-              className="text-[clamp(2.2rem,5vw,5rem)] font-bold mb-6 whitespace-nowrap min-h-[1.25rem] sm:min-h-[1.5rem] md:min-h-[1.75rem]"
+              className="text-[clamp(2.2rem,5vw,5rem)] font-bold mb-6"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6, delay: 0.2 }}
             >
-              I&apos;M A{' '}
-              <span className="gradient-text">
-                {displayText}
-                <span className="typewriter-cursor text-accent">|</span>
-              </span>
+              <div>
+                <div>I&apos;M A{' '}
+                  <span className="gradient-text">
+                    {displayText}
+                    <span className="typewriter-cursor text-accent">|</span>
+                  </span>
+                </div>
+                <div className="gradient-text">DEVELOPER</div>
+              </div>
             </motion.h2>
 
             <motion.p

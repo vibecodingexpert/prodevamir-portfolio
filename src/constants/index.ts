@@ -12,7 +12,7 @@ export const NAV_LINKS: NavLink[] = [
 export const HERO = {
   tagline: '',
   greeting: "I'm Amir",
-  roles: ['WORDPRESS DEVELOPER', 'SHOPIFY DEVELOPER', 'FULL STACK DEVELOPER'],
+  roles: ['WORDPRESS', 'SHOPIFY', 'FULL STACK'],
   description:
     "I'm a WordPress, Shopify, Full Stack, and AI solutions developer dedicated to building high-performance, visually stunning websites, online stores, and AI-powered applications that drive results for businesses.",
   cta: 'GET IN TOUCH',

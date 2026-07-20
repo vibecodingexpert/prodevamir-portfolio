@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="339" height="339" viewBox="0 0 339 339" fill="none">
+  <circle cx="169.5" cy="169.5" r="168" stroke="currentColor" stroke-width="1.5" opacity="0.3" stroke-dasharray="8 12"/>
+  <circle cx="169.5" cy="169.5" r="145" stroke="currentColor" stroke-width="1" opacity="0.2" stroke-dasharray="4 16"/>
+  <circle cx="169.5" cy="169.5" r="120" stroke="currentColor" stroke-width="2" opacity="0.15"/>
+  <circle cx="169.5" cy="169.5" r="85" stroke="currentColor" stroke-width="0.5" opacity="0.2" stroke-dasharray="3 8"/>
+  <circle cx="169.5" cy="169.5" r="60" stroke="currentColor" stroke-width="1" opacity="0.1" stroke-dasharray="6 10"/>
+  <circle cx="169.5" cy="169.5" r="38" stroke="currentColor" stroke-width="0.5" opacity="0.15"/>
+  <path d="M169.5 1.5V337.5" stroke="currentColor" stroke-width="0.5" opacity="0.1" stroke-dasharray="2 6"/>
+  <path d="M1.5 169.5H337.5" stroke="currentColor" stroke-width="0.5" opacity="0.1" stroke-dasharray="2 6"/>
+  <circle cx="169.5" cy="1.5" r="4" fill="currentColor" opacity="0.3"/>
+  <circle cx="169.5" cy="337.5" r="4" fill="currentColor" opacity="0.3"/>
+  <circle cx="1.5" cy="169.5" r="4" fill="currentColor" opacity="0.3"/>
+  <circle cx="337.5" cy="169.5" r="4" fill="currentColor" opacity="0.3"/>
+  <circle cx="169.5" cy="169.5" r="3" fill="currentColor" opacity="0.5"/>
+</svg>
